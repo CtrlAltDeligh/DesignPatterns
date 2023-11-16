@@ -1,0 +1,14 @@
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\BehavioralDesign\BehavioralDesign\bin\Debug\net7.0\BehavioralDesign.exe
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\BehavioralDesign\BehavioralDesign\bin\Debug\net7.0\BehavioralDesign.deps.json
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\BehavioralDesign\BehavioralDesign\bin\Debug\net7.0\BehavioralDesign.runtimeconfig.json
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\BehavioralDesign\BehavioralDesign\bin\Debug\net7.0\BehavioralDesign.dll
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\BehavioralDesign\BehavioralDesign\bin\Debug\net7.0\BehavioralDesign.pdb
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\BehavioralDesign\BehavioralDesign\obj\Debug\net7.0\BehavioralDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\BehavioralDesign\BehavioralDesign\obj\Debug\net7.0\BehavioralDesign.AssemblyInfoInputs.cache
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\BehavioralDesign\BehavioralDesign\obj\Debug\net7.0\BehavioralDesign.AssemblyInfo.cs
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\BehavioralDesign\BehavioralDesign\obj\Debug\net7.0\BehavioralDesign.csproj.CoreCompileInputs.cache
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\BehavioralDesign\BehavioralDesign\obj\Debug\net7.0\BehavioralDesign.dll
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\BehavioralDesign\BehavioralDesign\obj\Debug\net7.0\refint\BehavioralDesign.dll
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\BehavioralDesign\BehavioralDesign\obj\Debug\net7.0\BehavioralDesign.pdb
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\BehavioralDesign\BehavioralDesign\obj\Debug\net7.0\BehavioralDesign.genruntimeconfig.cache
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\BehavioralDesign\BehavioralDesign\obj\Debug\net7.0\ref\BehavioralDesign.dll

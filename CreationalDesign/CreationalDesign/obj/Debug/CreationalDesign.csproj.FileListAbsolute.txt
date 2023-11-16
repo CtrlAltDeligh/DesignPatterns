@@ -1,0 +1,6 @@
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\CreationalDesign\CreationalDesign\obj\Debug\CreationalDesign.csproj.AssemblyReference.cache
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\CreationalDesign\CreationalDesign\obj\Debug\CreationalDesign.csproj.CoreCompileInputs.cache
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\CreationalDesign\CreationalDesign\bin\Debug\CreationalDesign.exe
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\CreationalDesign\CreationalDesign\bin\Debug\CreationalDesign.pdb
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\CreationalDesign\CreationalDesign\obj\Debug\CreationalDesign.exe
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\CreationalDesign\CreationalDesign\obj\Debug\CreationalDesign.pdb

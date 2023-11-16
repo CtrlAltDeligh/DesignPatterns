@@ -1,0 +1,6 @@
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\StructuralDesign\StructuralDesign\bin\Debug\StructuralDesign.exe
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\StructuralDesign\StructuralDesign\bin\Debug\StructuralDesign.pdb
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\StructuralDesign\StructuralDesign\obj\Debug\StructuralDesign.csproj.AssemblyReference.cache
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\StructuralDesign\StructuralDesign\obj\Debug\StructuralDesign.csproj.CoreCompileInputs.cache
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\StructuralDesign\StructuralDesign\obj\Debug\StructuralDesign.exe
+C:\Users\tabol\RiderProjects\Assignments-DesignPatterns\StructuralDesign\StructuralDesign\obj\Debug\StructuralDesign.pdb
